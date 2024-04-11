@@ -144,14 +144,8 @@ The app must have the following functionalities
 **The following instructions are required for the tests to pass**
 
 - **Note:**
-
-  - Don't use any third-party packages other than packages mentioned in the **Quick Tips**
-  - Use media queries for responsiveness. Instead of rendering the same elements twice for responsiveness.
-  - For Mini Projects, You have to use normal HTML elements to style the React Components. Usage of `styled-components` (CSS in JS) to style React components are not supported in Mini Projects. Test cases won't be passed, If you use styled components.
-  - Refer to the below Example for the usage of `testid` in the HTML elements.
-
-    - Example: `<div testid="movieItem" className="movie-item"/>`.
-
+  - Use only UserName:rahul
+  - Password:rahul@2021
 - **Routes**
 
   - Render `Login` Route component when the path in URL matches `/login`
@@ -488,8 +482,3 @@ Returns a response containing the list of movies and their movie names should in
 </details>
 
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.

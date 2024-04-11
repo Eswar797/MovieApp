@@ -11,7 +11,7 @@ const Footer = () => (
       <FaYoutube className="contact-icon" />
     </div>
     <p className="contact-text">Contact us</p>
-    <p className="contact-text">Designed by Lakshmi Kiranmayi Vaddi</p>
+    <p className="contact-text">Designed by Eswar Narayana</p>
   </div>
 )
 
